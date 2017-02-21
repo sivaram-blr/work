@@ -9,4 +9,4 @@ class Article extends Model
     protected $table = 'articles';
 }
 
-//test
+//test test
